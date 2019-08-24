@@ -1,4 +1,4 @@
-# Unsupervised - CLUSTERING PROBLEM
+# Unsupervised - Customer Segmentation & Clustering PROBLEM
 This repository explains clustering with Kmeans and GMM by detecting segments of customers based on their wholesale purchases.
 
 After custering, the datset is then reduced with Principal Component Analysis (PCA) and the clusters are visualized in 2D.
